@@ -1,5 +1,6 @@
 /*
-Manual Mapping projeden kaldırıldı çünkü dünki asalak yeni yetmelerin büyümesi beni rahatsız ediyor,
-bu aptal asalak lamer sürülerinin büyümesini engellemek için Manual Map projeden kaldırıldı.
-Eğer Manual Mapping yapamayacak kadar çaresiz bir orospu çocuğu iseniz lütfen Visual Studio'yu kaldırın.
+Manual Mapping projeden kaldÄ±rÄ±ldÄ± Ã§Ã¼nkÃ¼ dÃ¼nki asalak yeni yetmelerin bÃ¼yÃ¼mesi beni rahatsÄ±z ediyor,
+bu aptal asalak lamer sÃ¼rÃ¼lerinin bÃ¼yÃ¼mesini engellemek iÃ§in Manual Map projeden kaldÄ±rÄ±ldÄ±.
+EÄŸer Manual Mapping yapamayacak kadar Ã§aresiz bir orospu Ã§ocuÄŸu iseniz lÃ¼tfen Visual Studio'yu kaldÄ±rÄ±n.
+-h4xu3lyn
 */
